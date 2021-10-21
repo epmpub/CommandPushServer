@@ -84,7 +84,7 @@ namespace NetMQPUSHServ
 
                         pubSocket.SendT(command);
 
-                        Console.Write(".");
+                        Console.Write(">");
 
                         Thread.Sleep(Inteval * 1000);
                     }
