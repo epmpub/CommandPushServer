@@ -3,9 +3,8 @@ using NetMQ.Sockets;
 using Newtonsoft.Json;
 using System;
 using System.Threading;
-using System.Threading.Tasks;
 
-namespace NetMQPUSHServ
+namespace PushServer
 {
 
     public static class MQExtensions

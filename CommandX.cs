@@ -1,4 +1,4 @@
-﻿namespace NetMQPUSHServ
+﻿namespace PushServer
 {
     internal class CommandX
     {
